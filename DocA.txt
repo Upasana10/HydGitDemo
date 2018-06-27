@@ -1,2 +1,2 @@
-this is doc A
+this is doc A  added conflicts
 this is doc ab
